@@ -1,0 +1,2 @@
+modelo,recompensa_media,desviacion_tipica,minimo,maximo,episodios_resueltos,porcentaje_exito,pasos_medios
+DQN - mejor checkpoint,248.22574790907018,42.40382326814212,71.64998259531663,296.4513653772491,27,90.0,347.73333333333335

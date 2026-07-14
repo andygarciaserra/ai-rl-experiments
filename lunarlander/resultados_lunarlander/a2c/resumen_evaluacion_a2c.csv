@@ -1,0 +1,2 @@
+modelo,recompensa_media,desviacion_tipica,minimo,maximo,episodios_resueltos,porcentaje_exito,pasos_medios
+A2C - mejor checkpoint,67.46956146143827,139.45712230613617,-145.40024747788203,276.6325647413309,9,30.0,488.8

@@ -1,0 +1,2 @@
+modelo,recompensa_media,desviacion_tipica,minimo,maximo,episodios_resueltos,porcentaje_exito,pasos_medios
+PPO - mejor checkpoint,159.69811812915486,108.2093922790619,-83.03995466544762,248.5295499870725,19,63.33333333333333,504.23333333333335

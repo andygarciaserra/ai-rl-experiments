@@ -1,0 +1,32 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE y sistema
+.vscode/
+.idea/
+.DS_Store
+
+# Registros de entrenamiento
+**/logs/
+**/tensorboard/
+**/checkpoints/
+**/events.out.tfevents.*
+
+# Buffers y artefactos temporales pesados
+**/replay_buffer*.pkl
+**/*.pkl
+
+# Archivos temporales
+*.tmp
+*.log

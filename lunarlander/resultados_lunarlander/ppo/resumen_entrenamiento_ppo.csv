@@ -1,0 +1,2 @@
+algoritmo,timesteps_solicitados,numero_entornos,n_steps,batch_size,n_epochs,gamma,gae_lambda,ent_coef,duracion_segundos,duracion_minutos,semilla
+PPO,1000000,16,1024,64,4,0.999,0.98,0.01,900.9994587898254,15.016657646497091,42

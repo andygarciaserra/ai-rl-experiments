@@ -1,0 +1,4 @@
+semilla,timesteps,mejor_media_callback,paso_mejor_modelo,ultima_media_callback,duracion_minutos,ruta
+7,500000,29.941217299999995,225000,-102.03893129999999,8.944884463151295,resultados_lunarlander/a2c_nocturno/semilla_7
+123,500000,-118.46443835000002,450000,-138.61600900000002,9.276069112618764,resultados_lunarlander/a2c_nocturno/semilla_123
+2026,500000,30.784485949999997,450000,-21.560517599999997,8.361782038211823,resultados_lunarlander/a2c_nocturno/semilla_2026

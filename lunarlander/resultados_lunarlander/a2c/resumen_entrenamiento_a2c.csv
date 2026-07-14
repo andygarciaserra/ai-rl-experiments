@@ -1,0 +1,2 @@
+algoritmo,timesteps_solicitados,numero_entornos,n_steps,learning_rate,gamma,gae_lambda,ent_coef,vf_coef,duracion_segundos,duracion_minutos,semilla
+A2C,500000,16,5,0.0007,0.99,1.0,0.01,0.5,350.31502509117126,5.838583751519521,42

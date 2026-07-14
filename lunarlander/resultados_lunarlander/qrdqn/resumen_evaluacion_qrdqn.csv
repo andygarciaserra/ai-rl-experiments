@@ -1,0 +1,2 @@
+modelo,recompensa_media,desviacion_tipica,minimo,maximo,episodios_resueltos,porcentaje_exito,pasos_medios,resuelve_en_promedio
+QR-DQN - mejor checkpoint,198.0361173897165,119.12340115703775,-184.1956054250576,285.89041438718107,25,83.33333333333334,430.76666666666665,False
